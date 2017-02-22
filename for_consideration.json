@@ -1,1 +1,60 @@
-{"title": "swipers", "url": "https://www.youtube.com/watch?v=1U7x4b69fXA"}
+[{
+        "title": "swipers",
+        "url": "https://www.youtube.com/watch?v=1U7x4b69fXA",
+        "length": ["moderate", "lie down fully"],
+        "width": ["max", "full arms & legs stretch left & right"],
+        "height": ["low", "kneel on all fours"],
+        "noise_level": "occasional bumping",
+        "location": [
+            "foredeck",
+            "cockpit",
+            "queen berth"
+        ]
+    }, {
+        "title": "switch kick",
+        "length": [],
+        "width": [],
+        "height": [],
+        "noise_level": "",
+        "location": [
+            "cabin",
+            "foredeck",
+            "cockpit"
+        ]
+    },
+    "mountain climber",
+    "elevated crunches",
+    "scissor kicks",
+    "squat jacks",
+    "diamond pushups",
+    "shoulder-tap pushups",
+    "jumping planks",
+    "companionway leglifts",
+    "handhold slide-ups",
+    "teaser crunches",
+    "sprint in place",
+    {
+        "title": "power jump",
+        "length": [],
+        "width": [],
+        "height": [],
+        "noise_level": "",
+        "location": [
+            "cabin",
+            "foredeck",
+            "cockpit"
+        ]
+    },
+    "in and out abs",
+    {
+        "title": "quadraplex",
+        "length": [],
+        "width": [],
+        "height": [],
+        "noise_level": "silent",
+        "location": []
+    },
+    "pushup & rotation",
+    "reverse v lunges",
+    "divebomber pushups"
+]
